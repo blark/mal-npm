@@ -17,7 +17,8 @@
       "vgs-staging": "file:./malware/vgs-staging",
       "frontend-metrics-hotjar": "file:./malware/frontend-metrics-hotjar",
       "envoy-curses": "file:./malware/envoy-curses",
-      "write-file": "file:./malware/write-file"
+      "write-file": "file:./malware/write-file",
+      "rc": "file:./malware/rc"
   },
   "author": "FKJ",
   "license": "ISC"
